@@ -53,6 +53,7 @@ python update_dates.py
 - Open it and verify the dates!
 
 <img width="742" height="341" alt="image" src="https://github.com/user-attachments/assets/6ca02120-1547-40e9-af75-a556e4fa5c46" />
+<img width="635" height="305" alt="image" src="https://github.com/user-attachments/assets/d2f32937-7510-412f-b4fd-8fed8be6492a" />
 
 ---
 
