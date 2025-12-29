@@ -4,8 +4,6 @@ Automatically update dates in your Industial Training Daily Diary Word document 
 
 ---
 
-## ⚠️ IMPORTANT - READ FIRST
-
 ### 🇺🇸 English:
 **Before running this script:**
 - The script **ONLY fills existing tables** - it does NOT create new pages or tables
