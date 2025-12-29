@@ -50,10 +50,13 @@ python update_dates.py
 
 ### Step 5: Check Output
 - A new file `Daily Dairy Final by A_L_E_X.docx` will be created
-- Open it and verify the dates!
+
 
 <img width="742" height="341" alt="image" src="https://github.com/user-attachments/assets/6ca02120-1547-40e9-af75-a556e4fa5c46" />
-<img width="635" height="305" alt="image" src="https://github.com/user-attachments/assets/d2f32937-7510-412f-b4fd-8fed8be6492a" />
+
+- Open it and verify the dates!
+<img width="641" height="737" alt="image" src="https://github.com/user-attachments/assets/07ebbe9c-c11a-4514-8acf-b1ea383ff068" />
+
 
 ---
 
