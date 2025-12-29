@@ -1,6 +1,6 @@
 # Daily Diary Automation Script 📅
 
-Automatically update dates in your UVT ICT Industrial Training Daily Diary Word document for 26 weeks.
+Automatically update dates in your Industial Training Daily Diary Word document for 26 weeks.
 
 ---
 
