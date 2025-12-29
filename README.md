@@ -4,13 +4,11 @@ Automatically update dates in your Industial Training Daily Diary Word document 
 
 ---
 
-### 🇺🇸 English:
 **Before running this script:**
 - The script **ONLY fills existing tables** - it does NOT create new pages or tables
 - Your Word document (`Daily Dairy uvt ict.docx`) must already have **26 weekly tables** 
 - If your file only has 1 table, only Week 1 will be updated
 
-### 🇱🇰 සිංහල:
 **Script එක Run කිරීමට පෙර:**
 - මෙය **දැනට තිබෙන වගු පමණක් පුරවයි** - අලුත් පිටු හෝ වගු සාදන්නේ නැහැ
 - ඔබේ Word ලේඛනයේ (`Daily Dairy uvt ict.docx`) **සති 26ක වගු 26** කලින් තිබිය යුතුයි 
