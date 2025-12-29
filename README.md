@@ -20,8 +20,6 @@ Automatically update dates in your UVT ICT Industrial Training Daily Diary Word 
 
 ---
 
-<img width="742" height="341" alt="image" src="https://github.com/user-attachments/assets/69c5d5a4-42d4-4f83-a0bd-23659761194c" />
-
 ## ✨ Features
 
 - ✅ Automatically fills dates for 26 weeks (Nov 20, 2025 to May 19, 2026)
@@ -57,6 +55,8 @@ python update_dates.py
 ### Step 5: Check Output
 - A new file `Daily Dairy Final by A_L_E_X.docx` will be created
 - Open it and verify the dates!
+
+<img width="742" height="341" alt="image" src="https://github.com/user-attachments/assets/6ca02120-1547-40e9-af75-a556e4fa5c46" />
 
 ---
 
