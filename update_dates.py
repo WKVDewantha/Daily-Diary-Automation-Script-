@@ -162,7 +162,7 @@ try:
             week_counter += 1
 
     doc.save(output_file)
-    print(f"\n✅ Suprise! Lazy M#F... Ur document has beed successfully updated.")
+    print(f"\n✅ Suprise! Lazy M#F... Ur document has been successfully updated.")
     print(f"📄 Saved as: {output_file}")
 
 except Exception as e:
@@ -172,4 +172,5 @@ except Exception as e:
 # Keep Window Open
 # ==========================================
 print("\n" + "="*30)
+
 input(" Now go away.. Press Fu#king Enter to exit...")
