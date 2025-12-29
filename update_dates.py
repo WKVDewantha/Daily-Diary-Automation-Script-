@@ -172,5 +172,4 @@ except Exception as e:
 # Keep Window Open
 # ==========================================
 print("\n" + "="*30)
-
-input(" Now go away.. Press Fu#king Enter to exit...")
+input("Press Enter to go away...")
