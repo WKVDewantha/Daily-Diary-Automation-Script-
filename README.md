@@ -1,4 +1,4 @@
-# Daily Diary Automation Script 📅
+# Daily Diary Automation Script
 
 Automatically update dates in your Industial Training Daily Diary Word document for 26 weeks.
 
